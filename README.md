@@ -2,7 +2,7 @@
 wawa-proposal-NearFieldCommunications-digital-phone-receipt
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/wawa-proposal-NearFieldCommunications-digital-phone-receipt/master/IMG_2212.jpg" width="800"></p>
+<p align="center"><img src="https://i.imgur.com/ZPjpSxM.jpg" width="800"></p>
 
 
 
