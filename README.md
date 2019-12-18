@@ -1,3 +1,5 @@
+# * model could be adopted to customers at registers paying for in store items 
+
 # for sending the gas receipt directly to the phone as a snap shot image to save on the phone or email detection via NFC to email receipt to phone
 # * only by proximity of the phone being within an arm extended length to a small sensor near the display of the gas purchase amount  or receptacle to take receipt 
 
