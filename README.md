@@ -1,8 +1,8 @@
 # * model could be adopted to customers at registers paying for in store items 
 
 # * QR code instead of NFC to save money no need for plastic cutting and electronics 
-QR code
-viewable on screen 
+# * QR code
+# * viewable on screen 
 
 as APP
 
