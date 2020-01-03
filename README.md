@@ -2,7 +2,7 @@
 
 # * QR code instead of NFC to save money no need for plastic cutting and electronics 
 # * QR code
-# * viewable on gas pump screen to allow import directly into user phone as a screenshot and or app version receipt system maybe similar to apple "wallet" called "receipt"
+# * viewable on gas pump screen to allow import directly into user phone as a screenshot and or app version receipt system maybe similar to apple "wallet" called "receipts"
 
 # * as APP
 
