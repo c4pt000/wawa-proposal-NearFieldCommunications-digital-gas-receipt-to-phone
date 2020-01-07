@@ -1,4 +1,4 @@
-# * update 01-06-2020 7;40pm EST
+# * update 01-06-2020 7:40pm EST
 # * seems like Walmart has tried to adopt this idea also but its not accurate either,
 # * this model can be used throughout even small pinpad based kiosks for swipe or insert payment
 
