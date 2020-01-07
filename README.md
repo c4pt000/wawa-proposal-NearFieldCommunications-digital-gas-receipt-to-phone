@@ -21,6 +21,9 @@ wawa-proposal-NearFieldCommunications-digital-phone-receipt
 
 <p align="center"><img src="https://i.imgur.com/lTJIhwX.png" width="800"></p>
 
+<p align="center"><img src="https://github.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/raw/master/wawa-QR-receipt.walmar.png" width="800"></p>
+
+
 # * a major reason to implement this tax purposes or proof of gas payment for ease of use when pump is out of receipt paper or to reduce carbon also by saving paper  lack of traveling inside to retrieve reciept or otherwise
 
 
