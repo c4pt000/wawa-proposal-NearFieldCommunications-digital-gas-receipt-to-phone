@@ -1,8 +1,8 @@
 # * update 01-06-2020 7;40pm EST
-seems like Walmart has tried to adopt this idea also but its not accurate either,
-this model can be used throughout even small pinpad based kiosks for swipe or insert payment
+# * seems like Walmart has tried to adopt this idea also but its not accurate either,
+# * this model can be used throughout even small pinpad based kiosks for swipe or insert payment
 
-# * i had to buy a pair of jeans and socks and underwear to change into since i am homeless in my car and i noticed on  the reciept with walmart that they have a QR code,
+i had to buy a pair of jeans and socks and underwear to change into since i am homeless in my car and i noticed on  the reciept with walmart that they have a QR code,
 
 # * model could be adopted to customers at registers paying for in store items 
 
