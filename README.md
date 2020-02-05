@@ -39,12 +39,7 @@ wawa-proposal-NearFieldCommunications-digital-phone-receipt
 * 6 digit OTP style pairing proves receipt purhaser via phone retreival with(out) timeout to retrieve reciept 5-10 minutes within purchase time
 
 
-donate via google pay
+https://www.binance.com/en/buy-sell-crypto/channel-list/buy/USD/BTC/10
 
-bc1q7ap44v0e8tz506fqvdygd7zztluvrl73pd527q
 
-or 
-
-if you found this useful,
-
-https://www.binance.com/userCenter/deposit.html      << for bitcoin mc/visa
+on average its $5.00 USD to transmit bitcoin on most websites dealing with bitcoin 
