@@ -38,8 +38,3 @@ wawa-proposal-NearFieldCommunications-digital-phone-receipt
 
 * 6 digit OTP style pairing proves receipt purhaser via phone retreival with(out) timeout to retrieve reciept 5-10 minutes within purchase time
 
-
-https://www.binance.com/en/buy-sell-crypto/channel-list/buy/USD/BTC/10
-
-
-on average its $5.00 USD to transmit bitcoin on most websites dealing with bitcoin 
