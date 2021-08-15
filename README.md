@@ -43,3 +43,4 @@ wawa-proposal-NearFieldCommunications-digital-phone-receipt
 
 * 6 digit OTP style pairing proves receipt purhaser via phone retreival with(out) timeout to retrieve reciept 5-10 minutes within purchase time
 
+https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision
