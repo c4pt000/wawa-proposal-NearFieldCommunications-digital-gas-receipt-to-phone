@@ -5,6 +5,14 @@ update
 
 
 
+current wawa kiosk should have a timeout to self cancel an order if the machine isn't in use for 120 seconds from the order being not wanted by the customer where a customer might leave being frustrated or not, or absent minded about finalizing the purchase
+
+
+
+
+
+
+
  * update 01-06-2020 7:40pm EST
 # * seems like Walmart has tried to adopt this idea also but its not accurate either,
 # * this model can be used throughout even small pinpad based kiosks for swipe or insert payment
