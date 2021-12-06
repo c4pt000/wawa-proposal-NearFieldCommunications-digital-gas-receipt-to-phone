@@ -15,7 +15,9 @@ current wawa kiosk should have a timeout to self cancel an order if the machine 
 
  * update 01-06-2020 7:40pm EST
 # * seems like Walmart has tried to adopt this idea also but its not accurate either,
-# * this model can be used throughout even small pinpad based kiosks for swipe or insert payment
+# * this model can be used throughout even small pinpad based kiosks for swipe or insert payment 
+
+12-06-2021 small pinpad similar to Sunoco
 
 
 
