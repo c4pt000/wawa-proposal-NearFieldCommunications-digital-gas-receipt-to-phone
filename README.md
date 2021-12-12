@@ -50,7 +50,7 @@ wawa-proposal-NearFieldCommunications-digital-phone-receipt
 
 <p align="center"><img src="https://github.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/raw/master/wawa-QR-receipt.walmar.png" width="800"></p>
 
-# APPLICATION TO APPLICATION WITHDRAWAL
+# APPLICATION TO APPLICATION CRYPTOCURRENCY WITHDRAWAL
 
 <p align="center"><img src="https://raw.githubusercontent.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/master/IMG_20210213_144602361.jpg" width="800"></p>
 
