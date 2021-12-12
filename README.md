@@ -6,7 +6,7 @@ update
 # GAS PUMP BITCOIN ATM TO ATM DEPOSIT AND WITHDRAWAL (PROTECT QR CRYPTO DEPOSIT WITH APP TO APP DEPOSIT INSTEAD OF USING APP TO PHYSICAL QR CODE DIRECTLY TO GAS PUMP INSTEAD OF BITCOIN ATM TO CASH TO GAS PUMP)
 
  # https://github.com/c4pt000/qr-code-kiosk-cash-register
-
+ ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/bitcoin-atm-protected-phone-number-visual.jpg)
 
 
 current wawa kiosk should have a timeout to self cancel an order if the machine isn't in use for 120 seconds from the order being not wanted by the customer where a customer might leave being frustrated or not, or absent minded about finalizing the purchase
