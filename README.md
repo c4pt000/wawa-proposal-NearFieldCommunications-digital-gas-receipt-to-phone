@@ -1,3 +1,8 @@
+01-07-2022
+# @wawa remove from kiosk not necessary
+![s1](https://raw.githubusercontent.com/c4pt000/wawa-proposal-QR-code-digital-gas-receipt-to-phone/master/IMG_20220107_054417817_HDR.jpg)
+
+
 12-06-2021
 update
 
